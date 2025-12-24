@@ -1,0 +1,26 @@
+[
+  {
+    "title_hi": "क्विज़ जीतने की 7 स्मार्ट स्ट्रैटेजी",
+    "title_en": "7 Smart Strategies to Win Quizzes",
+    "slug": "quiz-winning-strategies",
+    "category": "Contest Tips",
+    "level": "Beginner",
+    "date": "2025-12-24",
+    "excerpt_hi": "समय प्रबंधन, रिविज़न, और elimination तकनीक से स्कोर बढ़ाएँ।",
+    "excerpt_en": "Boost your score with time management, revision, and elimination techniques.",
+    "content_hi": "<p><b>1) टाइम-बॉक्सिंग</b>: हर प्रश्न के लिए max समय तय करें।</p><p><b>2) एलिमिनेशन</b>: गलत विकल्प हटाकर सही पर पहुँचें।</p><p><b>3) माइक्रो-नोट्स</b>: 1 पेज पर सूत्र/फैक्ट लिखें।</p><p><b>4) मॉक टेस्ट</b>: हफ्ते में 2 बार।</p><p><b>5) गलतियों की लिस्ट</b>: हर टेस्ट के बाद 5 गलतियाँ नोट करें।</p>",
+    "content_en": "<p><b>1) Time-boxing</b>: Set a max time per question.</p><p><b>2) Elimination</b>: Remove wrong options to reach the right one.</p><p><b>3) Micro-notes</b>: Keep formulas/facts on one page.</p><p><b>4) Mock tests</b>: At least twice a week.</p><p><b>5) Error log</b>: Note 5 mistakes after every test.</p>"
+  },
+  {
+    "title_hi": "रीजनिंग: सीरीज़ सवाल जल्दी कैसे करें",
+    "title_en": "Reasoning: Solve Series Questions Faster",
+    "slug": "reasoning-series-fast",
+    "category": "Reasoning",
+    "level": "Intermediate",
+    "date": "2025-12-24",
+    "excerpt_hi": "डिफरेंस-पैटर्न, वैकल्पिक सीरीज़ और ट्रिक-चेकलिस्ट।",
+    "excerpt_en": "Difference pattern, alternate series, and a quick checklist.",
+    "content_hi": "<ul><li>पहले <b>difference</b> देखें: +, -, ×, ÷, squares/cubes</li><li>फिर <b>alternate terms</b> अलग करें</li><li>अंत में <b>mixed operations</b> pattern चेक करें</li></ul>",
+    "content_en": "<ul><li>Check <b>differences</b> first: +, -, ×, ÷, squares/cubes</li><li>Then split <b>alternate terms</b></li><li>Finally verify <b>mixed operations</b> patterns</li></ul>"
+  }
+]

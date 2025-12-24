@@ -1,0 +1,82 @@
+{
+  "siteTitle": {
+    "hi": "Orbital • Mega Knowledge Base Contest",
+    "en": "Orbital • Mega Knowledge Base Contest"
+  },
+  "tagline": {
+    "hi": "ज्ञान साझा करें, अंक कमाएँ — Mega Knowledge Base Contest",
+    "en": "Share knowledge, earn points — Mega Knowledge Base Contest"
+  },
+  "navHome": {
+    "hi": "होम",
+    "en": "Home"
+  },
+  "navCategories": {
+    "hi": "कैटेगरी",
+    "en": "Categories"
+  },
+  "navResources": {
+    "hi": "रिसोर्स/टूल्स",
+    "en": "Resources/Tools"
+  },
+  "navRules": {
+    "hi": "नियम",
+    "en": "Rules"
+  },
+  "navSubmissions": {
+    "hi": "सबमिशन्स",
+    "en": "Submissions"
+  },
+  "navDisclosure": {
+    "hi": "Disclosure",
+    "en": "Disclosure"
+  },
+  "navPrivacy": {
+    "hi": "Privacy",
+    "en": "Privacy"
+  },
+  "navContact": {
+    "hi": "संपर्क",
+    "en": "Contact"
+  },
+  "heroCta1": {
+    "hi": "आज ही भाग लें",
+    "en": "Join Today"
+  },
+  "heroCtaSubmit": {
+    "hi": "Google Form से Submit करें",
+    "en": "Submit via Google Form"
+  },
+  "heroCta2": {
+    "hi": "टॉप नॉलेज पोस्ट्स",
+    "en": "Top Knowledge Posts"
+  },
+  "searchPh": {
+    "hi": "खोजें: विषय, कीवर्ड, लेवल…",
+    "en": "Search: topic, keyword, level…"
+  },
+  "affiliateNote": {
+    "hi": "नोट: कुछ लिंक affiliate हो सकते हैं—आपके लिए अतिरिक्त लागत नहीं।",
+    "en": "Note: Some links may be affiliate links—at no extra cost to you."
+  },
+  "submissionsTitle": {
+    "hi": "सबमिशन्स (Google Sheet)",
+    "en": "Submissions (Google Sheet)"
+  },
+  "submissionsHelp": {
+    "hi": "नीचे Google Sheet से latest submissions auto दिखेंगे।",
+    "en": "Latest submissions will auto-appear from Google Sheet."
+  },
+  "submissionsEmpty": {
+    "hi": "अभी कोई data नहीं मिला. कृपया sheetCsvUrl check करें।",
+    "en": "No data found. Please check sheetCsvUrl."
+  },
+  "btnOpenForm": {
+    "hi": "Form खोलें",
+    "en": "Open Form"
+  },
+  "footer": {
+    "hi": "© {year} Orbital • Mega Contest",
+    "en": "© {year} Orbital • Mega Contest"
+  }
+}
