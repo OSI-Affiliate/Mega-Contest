@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="hi">
+<head>
+  <title>Orbital • Mega Knowledge Base Contest</title>
+  <meta name="description" content="Mega Knowledge base Contest — Bilingual (Hindi + English)" />
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="theme-color" content="#0b1020" />
+<link rel="stylesheet" href="assets/style.css" />
+
+</head>
+<body>
+<div class="topbar">
+  <div class="container row">
+    <div class="brand">
+      <b data-i18n="siteTitle">Orbital • Mega Knowledge Base Contest</b>
+      <small data-i18n="tagline">Tagline</small>
+    </div>
+    <nav>
+      <a class="navlink" href="index.html" data-i18n="navHome">Home</a>
+      <a class="navlink" href="index.html#categories" data-i18n="navCategories">Categories</a>
+      <a class="navlink" href="resources.html" data-i18n="navResources">Resources</a>
+      <a class="navlink" href="rules.html" data-i18n="navRules">Rules</a>
+      <a class="navlink" href="submissions.html" data-i18n="navSubmissions">Submissions</a>
+      <a class="navlink" href="disclosure.html" data-i18n="navDisclosure">Disclosure</a>
+      <a class="navlink" href="privacy.html" data-i18n="navPrivacy">Privacy</a>
+      <a class="navlink" href="contact.html" data-i18n="navContact">Contact</a>
+      
+    </nav>
+    <div class="lang">
+      <select id="langSel" aria-label="Language">
+        <option value="hi">हिंदी</option>
+        <option value="en">English</option>
+      </select>
+    </div>
+  </div>
+</div>
+<main class="container">
+  <section class="hero">
+    <h1>Orbital: Mega Knowledge Base Contest</h1>
+    <p data-i18n="tagline">Tagline</p>
+
+    <div class="badges">
+      <span class="badge">Bilingual • हिंदी + English</span>
+      <span class="badge">Google Form + Sheet</span>
+      <span class="badge">Fast • GitHub Pages</span>
+    </div>
+
+    <div class="row2">
+      <a class="btn" href="rules.html">🏁 <span data-i18n="heroCta1">Join</span></a>
+      <a class="btn green" id="submitBtn" href="#" target="_blank" rel="noopener">📝 <span data-i18n="heroCtaSubmit">Submit via Google Form</span></a>
+      <a class="btn outline" href="#posts">📚 <span data-i18n="heroCta2">Top Posts</span></a>
+      <a class="btn outline" href="submissions.html">📥 Submissions</a>
+    </div>
+
+    <div class="search">
+      <input id="search" type="search" data-i18n-ph="searchPh" placeholder="Search" />
+    </div>
+    <p style="margin-top:10px;color:#cfd6ff" data-i18n="affiliateNote">Affiliate note</p>
+  </section>
+
+  <section id="posts" class="section">
+    <h2>Featured Knowledge Posts</h2>
+    <div id="postsGrid" class="grid"></div>
+  </section>
+
+  <section id="categories" class="section">
+    <div class="panel">
+      <h2>Categories</h2>
+      <p>Reasoning, GK, Science, Maths, English, Hindi, Contest Tips…</p>
+      <p><b>Submit:</b> Google Form भरकर अपनी entry भेजें।</p>
+    </div>
+  </section>
+</main>
+<footer class="footer">
+  <div class="container">
+    <small data-i18n="footer">© {year} Orbital • Mega Contest</small>
+  </div>
+</footer>
+<script src="assets/app.js"></script>
+<script>MEGA_CONTEST.init();</script>
+</body>
+</html>
